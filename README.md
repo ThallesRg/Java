@@ -1,2 +1,2 @@
-# Java Random
-Here you will find everything !! Gray zone of repositories :P
+# Java
+Everything I created using Java
